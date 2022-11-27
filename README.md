@@ -1,4 +1,36 @@
+# Screenshots
+### Live Netflix Clone Link: https://subhan-netflix-clone.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+
+## Responsiveness
+![homepage](https://user-images.githubusercontent.com/45516016/204150815-f5c79cc6-1563-4e17-8800-d38f5d37bb20.jpg)
+![mobile current](https://user-images.githubusercontent.com/45516016/204150823-039af96e-7b94-45fb-bfb7-3883c84ca714.png) ![login mobile](https://user-images.githubusercontent.com/45516016/204150832-58fba270-04b4-4039-ac3a-b8cd8ca9f5ab.png) ![account mobile](https://user-images.githubusercontent.com/45516016/204151350-9e1b7b8b-a854-4451-a28f-1b5f6ca93179.JPG)
+
+## Main Page Live Data From IMDB
+![Main page](https://user-images.githubusercontent.com/45516016/204151480-9d0a4cd1-68c5-4460-82e7-267e9b11d14c.JPG)
+
+## Live Trailer Of IMDB Movie from Youtube
+![trailer](https://user-images.githubusercontent.com/45516016/204151714-d2f12e0b-062a-463f-993c-6512d0f6558e.jpg)
+
+
+## First Page
+![First Page](https://user-images.githubusercontent.com/45516016/204151782-e180c5c6-9844-4c09-9c9e-1319e6e30fb6.jpg)
+
+
+## Login Page
+![login page](https://user-images.githubusercontent.com/45516016/204151603-29921713-2269-4a47-b534-1a12d0cdf69d.jpg)
+
+
+## Acount Setting 
+![account setting](https://user-images.githubusercontent.com/45516016/204151612-7362db38-bbb3-4153-810f-62a98a939d13.png)
+
+
+
+## Mobile View Main Page
+![Mobile](https://user-images.githubusercontent.com/45516016/204151662-6796997f-c5f6-4178-9660-8dd9471be62b.jpg)
+
 
 ## Available Scripts
 
