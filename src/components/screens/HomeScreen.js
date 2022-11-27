@@ -4,6 +4,7 @@ import './HomeScreen.css';
 import Nav from '../Nav';
 import requests from '../Request';
 import Row from '../Row';
+import Footer from '../Footer';
 
 function HomeScreen() {
   return (
@@ -32,6 +33,8 @@ function HomeScreen() {
 
 
     {/* Row */}
+
+    <Footer />
 
     </div>
   )
